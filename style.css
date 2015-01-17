@@ -1,0 +1,233 @@
+*{margin:0;padding:0}
+body{font-family:arial;font-size:14px;line-height:22px;color:#000}
+.fix{overflow:hidden;}
+.main{width:1200px; margin:0px auto;display:block}
+.rubel1{background-color: #3A5795;height:85px;margin-top: -8px}
+.img4{position: relative;left:113px;top:15px;width:200px;}
+.rubel1{}
+.rubel3{margin-left:625px;margin-top:-47px;color: white}
+.sp1{border:1px solid;width:170px;margin-left: 624px;background-color: white;height:20px;}
+.rubel4{position: relative;
+left: 153px;
+top: 2px;
+width: 15px;}
+.rubel5{width: 11px;margin-left: 626px;}
+.rubel6{margin-left: 642px;
+margin-top: -23px;
+font-size: 9px;
+color: white;}
+.rubel7{margin-left:812px;margin-top: -68px;color: white;}
+.sp3{border: 1px solid;
+    width: 172px;
+    margin-left: 812px;
+    background-color: white;
+    height:20px;margin-top: 3px;}
+.rubel8{margin-left: 155px;margin-top: 5px;}
+.rubel9{width: 10px;margin-left: 814px;}
+.rubel10{margin-left:830px;font-size: 9px;color: white;margin-top: -22px;}
+.sp4{border:1px solid 5E77AA;width:72px;left:1003px;top:-42px;position:relative;height:21px;background-color:#5E77AA}
+.rubel1{}
+.rubel11{margin-left: 12px;
+color: white;
+margin-top: -2px;
+font-size: 14px;
+opacity: 0.6;}
+.rubel12{margin-left:270px;margin-top: 12px;}
+.img{}
+.rubel2{}
+.rubel13{font-size: 15px;color:#7A5B60;}
+.rubel14{font-size: 15px;top: -253px;color: #7A5B60;position: relative;left: 272px}
+.rubel15{height:90px}
+.rubel16{margin-left: 356px;margin-top: -85px;font-size: 31px;height: 40px;font-family:san;}
+.rubel016{position: relative;top: -328px;left: 284px}
+.rubel17{margin-left: 356px;font-size: 17px;margin-top: -11px;}
+.rubel18{background-color:#DADEEC;}
+.rr{background-color:#f4f5f9}
+.rubel19{width: 135px;margin-left: 130px;height: 243px;margin-top: 45px;}
+.rubel013{position:relative;top: -250px;left: 270px;font-size: 15px;color:#7A5B60;}
+
+.rubel21{border: 1px solid;width:160px;margin-left:320px;margin-top: -110px;background-color:#E6E6E6 }
+.rubel021{width: 344px;position: relative;left: 263px;top: -210px;background-color: #FAFAFC;}
+.rubel22{margin-left: 5px;font-size: 14px;}
+.rubel23{border: 1px solid;width: 185px;left: 620px;top: -132px;height: 30px;position: relative;border-radius: 6px;}
+.rubel24{position:relative;top:3px;font-size: 14px;color:#9FA1B6;margin-left: 10px;}
+.rubel024{border: 1px solid;
+    width: 160px;
+    height: 29px;
+    left: 639px;
+    top: -303px;
+    position: relative;
+    border-radius: 10%;background: white}
+.rubel25{width: 14px;left: 146px;top: -15px;position: relative;}
+.rubel26{border: 1px solid;
+width: 160px;
+left: 825px;
+position: relative;
+top: -162px;
+height: 28px;
+border-radius: 6px;background: white}
+.rubel27{margin-left:13px;
+font-size:15px;
+margin-top:4px;
+color:#BBC7D6;}
+.rubel027{border: 1px solid;
+width: 122px;
+border-radius: 10%;
+position: relative;
+top: -333px;
+left: 815px;
+height: 28px;background: white}
+.rubel28{}
+.rubel29{}
+.rubel30{font-size: 17px;margin-left: 12px;margin-top: 4px;color:#9EA0B4;}
+.rubel030{border: 1px solid;
+width: 298px;
+height: 30px;
+border-radius: 10%;
+top: -316px;
+position: relative;
+left: 638px;background: white}
+.rubel31{}
+.rubel32{font-size: 16px;
+margin-left: 14px;
+margin-top: 7px;color:#9EA0B4;}
+.rubel032{border: 1px solid;
+width: 302px;
+height: 34px;
+position: relative;
+top: -295px;
+left: 638px;border-radius:10%;background: white}
+.rubel33{}
+.rubel34{font-size: 16px;
+margin-left:17px;
+margin-top:8px;color:#9EA0B4}
+.rubel034{border: 1px solid;
+width: 310px;
+height: 35px;
+position: relative;
+top: -270px;
+left:637px;border-radius:7px;background-color:#FFFFFF}
+.rubel0034{margin-left: 295px;
+top: -20px;
+position: relative;
+width: 15px;}
+.rubel35{}
+.rubel36{margin-left: 641px;
+margin-top: -255px;
+font-size: 20px;
+color:#322945;}
+.month{}
+.rubel37{}
+.rubel38{margin-left: 642px;
+font-size: 13px;
+margin-top:10px;
+border: 1px solid;
+padding: 6px 3px;
+border-radius:10%;
+width: 67px;
+height: 17px;background-color: #E3E6F0;
+color: #2D3358}
+.rubel39{position: relative;
+left: 701px;
+top: -26px;
+width: 13px}
+.day1{margin-left: 719px;
+border: 1px solid;
+width: 50px;
+height: 20px;
+padding: 4px;
+font-size: 15px;
+border-radius: 7%;
+margin-top: -52px;background-color:#E3E6F0;color:#2D3358}
+.day2{position: relative;
+left: 761px;
+top: -24px;
+width: 13px;}
+.rubel40{}
+.rubel41{}
+.rubel42{}
+.rubel43{}
+.rubel44{margin-left: 780px;
+border: 1px solid;
+width: 50px;
+height: 19px;
+padding: 4px;
+font-size: 15px;
+border-radius: 7%;
+margin-top: -51px;background-color:#E3E6F0;color:#2D3358}
+.rubel45{position: relative;
+left: 823px;
+top: -23px;
+width: 13px}
+.rubel46{}
+.rubel47{margin-left: 846px;
+margin-top: -56px;
+font-size: 12px;
+line-height: 18px;color:#3A5795;}
+.rubel48{border: 1px solid;
+padding: 4px;
+width: 0px;
+border-radius: 40%;
+margin-left: 645px;
+margin-top: 11px;background-color:#DEDEDE }
+.rubel49{}
+.rubel50{margin-left: 660px;
+margin-top: -15px;}
+.rubel51{border: 1px solid;
+padding: 4px;
+width: 0px;
+border-radius: 40%;
+margin-left: 758px;
+margin-top: -16px;
+background-color: #DEDEDE}
+.rubel52{}
+.rubel53{margin-left: 775px;
+margin-top: -15px;}
+.rubel54{}
+.rubel55{line-height: 15px;
+margin-left: 645px;
+font-size: 12px;
+margin-top: 5px;color:#3A5795;}
+.rubel56{}
+.rubel57{margin-left: 645px;
+margin-top: 15px;
+border: 1px solid 5A8F46;
+width: 90px;
+padding: 8px 11px;
+border-radius: 10%;
+font-family: san;
+font-size: 27px;
+background-color:#5A8F46;}
+.rubel057{border-bottom: 1px solid;
+width: 369px;
+margin-top: 10px;
+margin-left: 640px;
+height: 5px;}
+.rubel0057{height:25px;
+margin-left: 630px;
+margin-top: 16px;}
+.rubel58{}
+.rubel59{font-size: 15px;
+margin-left: 8px;
+color:#4B5998}
+.rubel60{margin-left: 93px;
+margin-top: -22px;
+font-size: 14px;
+color:#3A5795;}
+.rest{height:200px;}
+.rest01{position: relative;
+top: 10px;
+font-size: 14px;color:#53A1EB}
+.rest1{border: 1px solid;
+margin-top: 14px;
+width:1016px;color: #AC9999;}
+.rest2{font-family:sans-saref;
+height: 50px;
+font-size: 18px;
+margin-top: 6px;
+line-height: 25px;
+padding: 5px 0px;color:#53A1EB}
+.rest3{margin-top: 40px;
+color:#AC9999;}
+.res4{margin-top:-4px;
+color:#53A1EB;}
